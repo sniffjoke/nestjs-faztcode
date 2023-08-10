@@ -1,2 +1,7 @@
 /taskapi/node_modules
 /.idea
+/taskapi/dist
+/taskfront/node_modules
+/taskfront/package-lock.json
+/taskfront/README.md
+
